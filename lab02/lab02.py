@@ -20,7 +20,20 @@ import itertools
 
 def best_hand(hand):
     "From a 7-card hand, return the best 5 card hand."
-    # Your code here
+    # Generate all combinations of 5 cards from the 7-card hand
+    possible_hands = itertools.combinations(hand, 5)
+    # Initialize variables to track the best hand and its rank
+    best_hand = None
+    best_rank = None
+    # Evaluate each 5-card combination
+    for h in possible_hands:
+        current_rank = hand_rank(h)
+        # If this hand is better, update best_hand and best_rank
+        if best_rank is None or current_rank > best_rank:
+            best_rank = current_rank
+            best_hand = h
+    # Return the best hand as a sorted list of cards
+    return sorted(best_hand)
     pass
     
 # ------------------
