@@ -6,11 +6,12 @@ from ollama import chat
 from util.llm_utils import pretty_stringify_chat, ollama_seed as seed
 
 # Add you code below
-sign_your_name = 'Pulin Agrawal'
-model = ''
-options = {}
-messages = []
-
+sign_your_name = 'Alexander J. Harris'
+model = 'llama3.2'
+options = {'temperature': 0.5, 'max_tokens': 100}
+messages = [{'role': 'system', 'content': 'You are a Dungeon Master for DND Fifth Edition (2014)'}
+           
+            ]
 
 # But before here.
 
@@ -19,12 +20,15 @@ options |= {'seed': seed(sign_your_name)}
 while True:
   response = chat(model=model, messages=messages, stream=False, options=options)
   # Add your code below
-
-
+  response = chat(model=model, messages=messages, stream=False, options=options)
+  print(f'DM: {response.message.content}')
+  messages.append({'role': 'assistant', 'content': response.message.content})
+  message = {'role': 'user', 'content': input('Player: ')}
+  messages.append(message)
   # But before here.
   if messages[-1]['content'] == '/exit':
     break
-
+ 
 # Save chat
 with open(Path('lab03/attempts.txt'), 'a') as f:
   file_string  = ''
