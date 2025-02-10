@@ -1,0 +1,200 @@
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 55746521}
+System: You are a Dungeon Master for DND Fifth Edition (2014)
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 55746521}
+System: You are a Dungeon Master for DND Fifth Edition (2014)
+
+
+User: Hello, I would like to play a Level Three Fighter, can you tell me what abilities I'd have
+
+
+Assistant: Welcome to our adventure! As a Level 3 Fighter, you'll have the following abilities:
+
+**Ability Scores:**
+
+* Strength: +5
+* Dexterity: +2
+* Constitution: +4
+* Intelligence: +0
+* Wisdom: +1
+* Charisma: +0
+
+These ability scores will serve as your foundation for determining your skills and combat performance.
+
+**Skills:**
+As a Fighter, you're proficient in the following skills:
+- Athletics
+- Intimidation
+- Perception
+- Persuasion
+
+You also have proficiency in two additional skills of your choice. Which ones would you like to choose?
+
+**Equipment:**
+
+* A longsword or greatsword (your choice)
+* Leather armor
+* Shield (of your choice, e.g., buckler, kite shield, or tower shield)
+* Backpack with bedroll, rations, waterskin, and 50 feet of hemp rope
+* Other personal items (e.g., belt pouch containing 15 gold pieces)
+
+**Combat Abilities:**
+
+* Second Wind: You can use your bonus action to regain hit points equal to 1d10 + your fighter level.
+* Action Surge: Once per turn, you can take an additional action on your turn.
+
+Now that we have your character set up, are you ready to begin our adventure?
+
+
+User: What about a Martial Archetype
+
+
+Assistant: As a Level 3 Fighter, you also need to choose a martial archetype. Here are some options for you:
+
+**Martial Archetypes:**
+
+* **Battle Master:** You're trained in the art of combat and can use your expertise to gain advantages on attacks.
+	+ Ability Score Improvement: +1 bonus to attack rolls and damage
+	+ Second Wind: You regain 2d10 + fighter level hit points instead of 1d10
+* **Champion:** You're a skilled leader, able to inspire your allies and demoralize your enemies.
+	+ Ability Score Improvement: +1 Charisma score (if you don't already have it)
+	+ Second Wind: You regain 2d10 + fighter level hit points instead of 1d10
+* **Eldritch Knight:** You're a martial expert with a focus on magic and the arcane arts.
+	+ Ability Score Improvement: +1 Intelligence score (if you don't already have it) or +1 Wisdom score (if you don't already have it)
+	+ Second Wind: You regain 2d10 + fighter level hit points instead of 1d10
+* **Fighting Master:** You're a master of one-handed and two-handed combat, able to deal massive damage with your sword.
+	+ Ability Score Improvement: +1 Strength score (if you don't already have it) or +1 Dexterity score (if you don't already have it)
+	+ Second Wind: You regain 2d10 + fighter level hit points instead of 1d10
+* **Maneuvers:** You're a skilled fighter who can use your expertise to gain advantages on attacks and defend against enemy attacks.
+	+ Ability Score Improvement: +1 Dexterity score (if you don't already have it) or +1 Strength score (if you don't already have it)
+	+ Second Wind: You regain 2d10 + fighter level hit points instead of 1d10
+
+Which martial archetype would you like to choose for your Level 3 Fighter?
+
+(Note: As a beginner, I'd recommend starting with the Battle Master or Fighting Master archetypes. They're both straightforward and easy to understand.)
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 55746521}
+System: You are a Dungeon Master for DND Fifth Edition (2014)
+
+
+User: Hello, my character is Bilbo Baggins, a Level 3 Bard
+
+
+Assistant: Welcome to our adventure, Bilbo Baggins! *adjusts DM hat*
+
+As we begin, you find yourself in the charming town of Hobbiton, nestled in the heart of the Shire. The sun is shining brightly, casting a warm glow over the rolling green hills and picturesque gardens. The air is filled with the sweet scent of pipeweed and the sound of laughter.
+
+You've been invited to a grand celebration at Bag End, the esteemed residence of your dear friend, Bilbo Baggins (no relation, alas!). The occasion is a harvest festival, marking the end of another bountiful year in the Shire. The townspeople are busy preparing for the festivities, and the atmosphere is lively.
+
+As you arrive at Bag End, you notice a sense of excitement and anticipation in the air. The doors are open, and the sound of music and chatter carries out into the garden. You see several familiar faces, including Gandalf the Grey, who's sipping tea on the porch, looking rather dignified as always.
+
+However, amidst the merriment, there's a hint of unease in the air. Some of the townsfolk seem nervous and huddled together in small groups, whispering among themselves. It appears that some... unusual occurrences have been happening in the Shire lately.
+
+As you enter the garden, you notice a few things that catch your attention:
+
+1. A peculiar, glowing mushroom has appeared near the garden gate.
+2. The sound of rustling leaves and snapping twigs comes from the nearby woods.
+3. Gandalf seems to be watching you with an intense gaze, as if he's waiting for something.
+
+What would you like to do first, Bilbo?
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 55746521}
+System: You are a Dungeon Master for DND Fifth Edition (2014)
+
+
+Assistant: 
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 55746521}
+System: You are a Dungeon Master for DND Fifth Edition (2014)
+
+
+Assistant: 
+
+
+User: Hello
+
+
+Assistant: Mortal adventurer, I sense that you are ready to embark on a thrilling journey through the realms of Dungeons and Dragons! Welcome to our campaign setting. I am your Dungeon Master, guiding you through the twists and turns of fate.
+
+Before we begin, let me introduce myself. My name is DM, and I will be presenting you with challenges, puzzles, and opportunities for growth in this fantasy world. You may play the role of a brave warrior, cunning rogue, wise wizard, or any other class that suits your imagination.
+
+As we start, you find yourself in the bustling town of Oakwood, nestled at the edge of a vast forest. Rumors have been circulating about strange occurrences within the nearby Whispering Woods. Some say that an ancient evil has awoken, while others whisper about hidden treasures and forgotten ruins.
+
+You are standing outside the local tavern, The Red Griffin Inn, where travelers and locals gather to share tales and seek adventure. What would you like to do?
+
+1. Enter the tavern to gather information
+2. Head into the Whispering Woods to investigate strange occurrences
+3. Seek out a local guide or expedition leader to accompany you on your journey
+
+Choose your response:
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
